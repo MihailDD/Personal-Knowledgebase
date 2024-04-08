@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "a5b5fbd09815cd43",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdfdcab4f340e72b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed5c58f21854812b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electrical Engineering/2. Controls/2.5 System Stability/2.5a Discrete-Time Stability.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "363793eac674b5b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0f17628bf666862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6aa7db42e004c29",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "27823d3f9b19c971",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88367011fd07d8b8",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 282.5
+  },
+  "right": {
+    "id": "5044e110a64f86a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed325b7c1122bd0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4398410083dea4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Electrical Engineering/2. Controls/2.5 System Stability/2.5a Discrete-Time Stability.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e272db8ef780671a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3c075be1707f4549",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Electrical Engineering/2. Controls/2.5 System Stability/2.5a Discrete-Time Stability.md"
+              }
+            }
+          },
+          {
+            "id": "c59d040c78a6f968",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "ed5c58f21854812b",
+  "lastOpenFiles": [
+    "Electrical Engineering/2. Controls/2.4 System Identification/2.4a Discrete-Time System Identification.md",
+    "Mathematics/2. Linear Algebra/2.10 Projections/2.10d Least Squares/2.10d.4 Matrix Least Squares.md",
+    "Mathematics/2. Linear Algebra/2.3 Vectors/2.3c Vector Operations/2.3c.1 Dot Product.md",
+    "Mathematics/2. Linear Algebra/2.3 Vectors/2.3c Vector Operations/2.3c.2 Outer Product.md",
+    "Electrical Engineering/2. Controls/2.2 Discretization.md",
+    "Electrical Engineering/2. Controls/2.3 Additive Disturbance/2.3b Additive Disturbance in Discrete-Time LTI Model.md",
+    "Electrical Engineering/2. Controls/2.1 Linear Time-Invariant Models/2.1a Discrete-Time LTI Model.md",
+    "Electrical Engineering/2. Controls/2.3 Additive Disturbance/2.3a Disturbance.md",
+    "Electrical Engineering/2. Controls/2.5 System Stability/2.5a Discrete-Time Stability.md",
+    "Electrical Engineering/2. Controls/2.5 System Stability/2.5b Continuous-Time Stability.md",
+    "Mathematics/2. Linear Algebra/2.12 Decomposition Methods/2.12a QR Decomposition.md",
+    "Electrical Engineering/2. Controls/2.7 Controllability/2.7a Reachability.md",
+    "Mathematics/2. Linear Algebra/2.10 Projections/2.10d Least Squares/2.10d.2 Orthogonal Least Squares.md",
+    "Mathematics/2. Linear Algebra/2.10 Projections/2.10d Least Squares/2.10d.1 Ordinary Least Squares.md",
+    "Mathematics/2. Linear Algebra/2.10 Projections/2.10d Least Squares/2.10d.3 Orthonormal Least Squares.md",
+    "Mathematics/2. Linear Algebra/2.10 Projections/2.10b Orthogonal Projection.md",
+    "Mathematics/2. Linear Algebra/2.11 The Gram-Schmidt Process.md",
+    "Electrical Engineering/2. Controls/2.5 System Stability/2.5c BIBO Stability.md",
+    "Electrical Engineering/2. Controls/2.3 Additive Disturbance/2.3c Additive Disturbance in Continuous-Time LTI Model.md",
+    "Mathematics/2. Linear Algebra/2.10 Projections/2.10c Orthonormal Projection.md",
+    "Mathematics/2. Linear Algebra/2.10 Projections/2.10a Projection.md",
+    "Mathematics/1. Probability/5. Prediction/5.3 Linear Regression.md",
+    "Mathematics/2. Linear Algebra/2.12 Decomposition Methods/2.12c Dyadic Decomposition.md",
+    "Mathematics/2. Linear Algebra/2.12 Decomposition Methods/2.12b Spectral Decomposition.md",
+    "Mathematics/2. Linear Algebra/2.12 Decomposition Methods/2.12 Decomposition Methods.md",
+    "Mathematics/2. Linear Algebra/2.12 Decomposition Methods",
+    "Electrical Engineering/2. Controls/2.1 Linear Time-Invariant Models/2.1b Continuous-Time LTI Model(s)/2.1b.2 Diagonal State Matrix Model.md",
+    "Mathematics/2. Linear Algebra/2.10 Projections/2.10d Least Squares",
+    "Statistics & Data Science/6. Machine Learning",
+    "Statistics & Data Science/5. Causal Inference",
+    "Computer Science/3. Databases",
+    "vLLM Documentation.canvas",
+    "Statistics & Data Science/1. EDA",
+    "Mathematics/2. Linear Algebra/2.10 Projections/2.10b Least Squares",
+    "Mathematics/2. Linear Algebra/2.11 Gram-Schmidt",
+    "Mathematics/2. Linear Algebra/2.10 Projections",
+    "Mathematics/2. Linear Algebra/2.9 Orthogonality & Orthonormality",
+    "STAT 20/Pasted image 20231120074516.png",
+    "STAT 20/Screenshot 2023-11-20 at 7.35.35.png"
+  ]
+}

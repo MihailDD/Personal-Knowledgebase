@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "0fa752ab21827df8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb93d46e7e2f2fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfb9ed827713e7be",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "130a5f708b49faeb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6acee0841fe706cc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3c458d04add883e7",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b507afe180c209cc",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e3c0b0b2ef35207b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "1292f68bb55bf860",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "49e2f421e45a6435",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b62ce2699da68951",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d7d521e2ffda5ea9",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b85339cb14085313",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "4e910488d88a0fa5",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {}
+        }
+      },
+      {
+        "id": "56e6d44b6e78acff",
+        "type": "leaf",
+        "state": {
+          "type": "graph-analysis",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bfb9ed827713e7be",
+  "lastOpenFiles": [
+    "STAT 20/3. Generalization/3.3 Distributions/3.3a Population Distribution.md",
+    "CS 70/16. Probability Distributions/16.6 Poisson Distribution/16.6b Sum of Independent Poisson Variables.md",
+    "CS 70/16. Probability Distributions/16.6 Poisson Distribution/16.6a Poisson Distribution.md",
+    "STAT 20/3. Generalization/3.5 Hypothesis Testing/3.5c The P-Value.md",
+    "STAT 20/3. Generalization/3.5 Hypothesis Testing/3.5b Null Distribution.md",
+    "STAT 20/3. Generalization/3.5 Hypothesis Testing/3.5a Formulating Hypotheses.md",
+    "STAT 20/3. Generalization/3.5 Hypothesis Testing/3.5 Hypothesis Testing.md",
+    "CS 70/10. Counting/10.2 Counting Sets (SRC).md",
+    "CS 70/10. Counting/10.1 Counting Sequences (FRC).md",
+    "CS 70/10. Counting/10.3 With Replacement, Unordered (ZRC).md",
+    "STAT 20/Pasted image 20231120074516.png",
+    "STAT 20/1. Hypothesis Testing/1-3 The P-Value.md",
+    "STAT 20/1. Hypothesis Testing/1-1 Hypotheses.md",
+    "STAT 20/3. Explanatory Power.md",
+    "STAT 20/Screenshot 2023-11-20 at 7.35.35.png",
+    "CS 70/13. Laws of Discrete Probability/13.1 Probability Space.md",
+    "CS 70/10. Counting/10.4 Binomial Theorem.md",
+    "STAT 20/4. Improving Predictions.md",
+    "STAT 20/2. Residual Sum of Squares, Least Squares.md",
+    "10.5 e.md",
+    "STAT 20/1. Hypothesis Testing/1-2 Test Statistics.md"
+  ]
+}
